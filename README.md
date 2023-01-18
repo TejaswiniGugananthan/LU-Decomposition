@@ -59,8 +59,8 @@ print(U)
 ```python
 /*
 #Program to find the LU Decomposition of a matrix.
-#Developed by: 
-#RegisterNumber: 
+#Developed by: Tejaswini G
+#RegisterNumber: 22004187
 */
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
